@@ -1,0 +1,84 @@
+1- Arduino nano 
+12- borneras dobles para conexión
+1- bornera triple para conexion
+1-Pt100
+2-conectores micro usb hembra
+Alambre de cobre para realizar las bobinas
+1- parlantes
+2- transistores 2n222a
+2- resistencias de 330 ohm
+1- led
+1- interruptor en paralelo
+1- pulsador normalmente abierto
+2- transductores de ultrasonido
+5- tiras de pines hembra para conexion
+GENERADOR DE FUNCIONES
+2- Pines de 4
+1- Capacitor de 470uF
+1- Capacitor de 100nF
+2- capacitor de 220uF
+1- Diodo led
+4 - Resistencia de 1k
+1- Interruptor sencillo
+1- pin doble de 4
+2- Capacitor de 1uF
+1- Capacitor de 100nF
+1- Capacitor de 10n
+1- Capacitor de 1n
+4- Resistencias de 10k
+2- Potenciometro de 10k
+2- potenciómetro de 25k
+1- potenciómetro de 100k
+1- resistencia de 3.3k
+1- Potenciómetros 500R
+1-xr2206
+1- condensador de 10uF
+1- lm358
+1- Resistencia de 100 ohm
+MÓDULO DE RESISTIVIDAD
+2- Pines de 4
+1 - resistencia de 400 ohm
+6 - resistencias de 20k
+2 - resistencia de 1k
+1 - capacitor de 1uF
+1 - Potenciómetro multivuelta de 10k 
+1 - Resistencia de 100k
+1 - Resistencia de 68k
+1 - Resistencia de 2k
+1 - tl074
+2 – tl071
+1- Resistencia de 49k
+TECLADO (KEYPAD)
+8- pulsadores NA (normalmente abierto)
+2- Pines de 4
+Modulo temperatura
+2- Pines de 4
+3- Tl071
+2- Resistencia de 680k
+2- Resistencia de 68k
+1- Resistencia de 100 ohm
+6- Resistencia de 20k
+1 – resistencia de 390 ohm
+1 - Resistencia de 1k
+1 - Pt 100
+CORRIENTE CONSTANTE
+2- Pines de 4
+1 -Resistencia de 1M
+1 -Potenciómetro de 10k
+1- LM358
+1- IRLZ44N
+1- Resistencia de 1 ohm 5W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
